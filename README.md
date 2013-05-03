@@ -1,7 +1,8 @@
 Redmine rainbow plugin
 ======================
 
-Syntax highlighting for Redmine through rainbow.js
+This plugin replaces the default Coderay highlighter with a client-side highlighter
+powered by [rainbow.js](http://craig.is/making/rainbows).
 
 Installation
 ------------
