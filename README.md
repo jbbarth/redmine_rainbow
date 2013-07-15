@@ -1,6 +1,8 @@
 Redmine rainbow plugin
 ======================
 
+**Please note that this plugin is under (slow) development and is not ready for general use yet.**
+
 This plugin replaces the default Coderay highlighter with a client-side highlighter
 powered by [rainbow.js](http://craig.is/making/rainbows).
 
